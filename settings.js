@@ -28,18 +28,18 @@ global.APIs = {
 	zenz: 'https://zenzapi.xyz', 
 }
 global.APIKeys = {
-	'https://zenzapi.xyz': '01ABEB1E11', //Kalau habis beli sendiri
+	'https://zenzapi.xyz': 'aebb07b72e40', //Kalau habis beli sendiri
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.owner = ['628975217200'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['628975217200'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['628975217200'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna '𝚠𝚊𝚗𝚍𝚊 𝚙𝚛𝚊𝚜𝚎𝚝𝚢𝚊' // Your name ඔබේ නම 
+global.botnma = '𝕊𝔸ℕ𝕊 𝔹𝕆𝕋' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = '𝖂𝖆𝖓𝖉𝖆 𝕻𝖗𝖆𝖘𝖊𝖙𝖞𝖆' //ownernama,ownername
+global.packname = 'Ｗａｎｄａ ｐｕｎｙａ' // Sticker package name 
+global.author = '𝐰𝐚𝐧𝐝𝐚 𝐩𝐫𝐚𝐬𝐞𝐭𝐲𝐚' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
@@ -51,21 +51,21 @@ Download song type .yt
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
 global.welcome = `
-🌀 Thanks Fro using sl zim bot
+🌀 Thanks For using  𝐒𝐀𝐍𝐒 𝐁𝐎𝐓
 ✾ Some bugs fixing
 😼♥️
 `
 // වෙල්කම් එක යවන්න ඔනි නම් add කියලා දාන්න 
 global.sendwelcome = `add`
-// Good bye එක ඔනි නම් remove කියලා දාන්න
+// 𝐁𝐲𝐞 𝐀𝐧𝐚𝐤 𝐀𝐧𝐣𝐢𝐧𝐠 එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
+global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐖𝐚𝐧𝐝𝐚 𝐏𝐫𝐚𝐬𝐞𝐭𝐲𝐚`
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
     botAdmin: 'Bot must be admin neh!',
-    owner: 'This cmd is for Elisa bot owner only',
+    owner: 'This cmd is for Sans bot owner only',
     group: 'oooh sorry this cmd is for groups only!',
     private: 'goossssh it can only used in dms!',
     bot: 'This cmd  its only for the bot host',
