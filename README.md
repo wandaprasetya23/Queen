@@ -4,9 +4,9 @@
   
 # 🧚 ◍ 𝚂𝙰𝙽𝚂 𝙱𝙾𝚃 ◍ 🧚
 <div align="center">
-𝙎𝘼𝙉𝙎 𝘽𝙊𝙏 is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Base is cheems bot Special Thanks Fro All helpers
+𝙎𝘼𝙉𝙎 𝘽𝙊𝙏 is simple Multi divece whatsapp bot in srilanka Made By wanda prasetya Base is cheems bot Special Thanks Fro All helpers
   
- [@SlRealtech]() | [@darkAlpha]() | [@sanuwa]() | [@isuru]() 
+ [@wanda]() | [@prasetya]() | [@keluarga]() | [@orangtua]() 
 
 
 #### ```How To deploy ```
@@ -16,12 +16,10 @@
 4. Add app name and deploy 
 5. Watch your heroku log 
 
-##### [ᴡᴀᴛᴄʜ ᴠɪᴅᴇᴏ ʜᴏᴡ ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ ʙᴏᴛ](https://youtu.be/wXovNeqOHSo)
+##### [ᴡᴀᴛᴄʜ ᴠɪᴅᴇᴏ ʜᴏᴡ ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ ʙᴏᴛ](https://youtube.com/shorts/CXkGEmQk734?feature=share)
 
 
-<div align="left">
-  <img src="https://telegra.ph/file/30f0019baa0dc2715c62d.jpg" width="180" height="100ll">
-  
+
 # 
 ### 𝙁𝙊𝙍𝙆 𝙒𝘼𝙉𝘿𝘼 𝙋𝙍𝘼𝙎𝙀𝙏𝙔𝘼 
  <p align="left">
@@ -103,7 +101,7 @@ global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃` // Add your caption ♥ 
+global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐰𝐚𝐧𝐝𝐚 𝐌𝐃` // Add your caption ♥ 
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
