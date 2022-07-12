@@ -1,15 +1,13 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝚂𝙰𝙽𝚂+𝚆𝙰+𝙱𝙾𝚃+𝚁𝙴𝙿𝙾.;𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝚆𝙰𝙽𝙳𝙰+𝙾𝙵𝙲;𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝚂𝙸𝙼𝙿𝙻𝙴+𝙱𝙾𝚃;𝙰𝙽𝙳+𝙸𝙽𝙲𝙻𝚄𝙳𝙴+𝙼𝙾𝚁𝙴+𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂;𝘛𝘏𝘈𝘕𝘒𝘚+𝘍𝘙𝘖+𝘝𝘐𝘚𝘐𝘛𝘐𝘕𝘎+𝘔𝘠+𝘎𝘐𝘛)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://i.ibb.co/ZWctf3M/Queen-Elisa-Git-Lo-Go.jpg" width="300" height="300">
   
 # 🧚 ◍ 𝚂𝙰𝙽𝚂 𝙱𝙾𝚃 ◍ 🧚
 <div align="center">
-Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Base is cheems bot Special Thanks Fro All helpers
+𝙎𝘼𝙉𝙎 𝘽𝙊𝙏 is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Base is cheems bot Special Thanks Fro All helpers
   
  [@SlRealtech]() | [@darkAlpha]() | [@sanuwa]() | [@isuru]() 
 
-<div align="left">
 
 #### ```How To deploy ```
 1. Fork This repo
@@ -25,9 +23,9 @@ Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Ba
   <img src="https://telegra.ph/file/30f0019baa0dc2715c62d.jpg" width="180" height="100ll">
   
 # 
-### FORK QUEEN ELISA REPO
+### 𝙁𝙊𝙍𝙆 𝙒𝘼𝙉𝘿𝘼 𝙋𝙍𝘼𝙎𝙀𝙏𝙔𝘼 
  <p align="left">
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-MD/fork"><img align="center" src="https://i.imgur.com/t1fC4oE.jpeg" alt="Fork and deploy" height="35" width="150" /></a>
+<a href="https://github.com/wandaprasetya23/Queen/fork"><img align="center" src="https://i.imgur.com/t1fC4oE.jpeg" alt="Fork and deploy" height="35" width="150" /></a>
 
 ### SCAN QR CODE 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@mrnimaofc/Queen-Elisa-MD?v=1?outputonly=1&lite=1#index.js)
@@ -40,8 +38,8 @@ Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Ba
 ``` I am in no way responsible for any mistakes you may make !```
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FFFF00&lines=If+you+think+this+bot+is+not+good;deploy+another+bot+you+like;If+you+become+Question+about+bot;join+our+Whatsapp+support+group;to+solve+it+♥️)](https://git.io/typing-svg)
 #### 𝙵𝚁𝙾 𝙼𝙾𝚁𝙴 
-+ [`𝙹𝙾𝙸𝙽 𝙷𝙴𝙻𝙿 𝙶𝚁𝙾𝚄𝙿`](https://chat.whatsapp.com/KYvD0uan1KKLUSTtMHV9vi) 
-+ [`𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚆𝙽𝙴𝚁`](https://wa.me/94715166712?text=From_Queen_Elisa_Md_Repo💃)
++ [`𝙹𝙾𝙸𝙽 𝙷𝙴𝙻𝙿 𝙶𝚁𝙾𝚄𝙿`](https://chat.whatsapp.com/J6WuCY7cO6RKCdgTK11JWw) 
++ [`𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚆𝙽𝙴𝚁`](https://wa.me/628975217200?text=hai+bang💃)
 
 #### ```TOTAL REPO VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/DarkMakerofc/count.svg)
@@ -77,13 +75,13 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.owner = ['628975217200'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['628975217200'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['628975217200'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'wanda' // Your name ඔබේ නම 
+global.botnma = '💃 𝐒𝐚𝐧𝐬 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
 global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
+global.packname = '𝐰𝐚𝐧𝐝𝐚' // Sticker package name 
 global.author = 'Dark Maker' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
